@@ -89,7 +89,7 @@ font-weight: bold;
 </style>
 </head>
 <body>
-<center><br><font color="#339900" size="14" face="arial">Backdoor Scanner</font></center><br>
+<center><br><font color="#339911" size="14" face="arial">Shell Scanner</font></center><br>
 <?php
 if(isset($_REQUEST['edit']) && $_REQUEST['edit']=='file'){
 if(isset($_POST['yes'])){
