@@ -3,6 +3,8 @@
 <meta name="keywords" content="أوامر شيل,أوامر لينكس,شيل,cih,cih99">
 <meta name="description" content="جميع أوامر الشيل">
 <title>Shell Inst</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Language" content="ar-iq">
 </head><body style="text-align: center;" bgcolor="#000000">
 
 <p align="center"><FONT face=Arial color=#ffffff size=6><SPAN 
@@ -84,7 +86,8 @@ target="_blank">
 	<tr>
 		<td colspan="2" align="middle" height="27" width="384">
 		<font color="#ff0000" face="Mangal"><b>lynx -source </b></font>
-		<font color="#ffffff" face="Mangal"><span style="font-weight: 700">http://xxxx.com/xxx.zip</span></font></td>
+		<font color="#ffffff" face="Mangal"><span style="font-weight: 700">
+		http://xxxx.com/xxx.zip</span></font></td>
 		<td align="middle" height="27" width="110"><b>
 		<font color="#ffff00" face="Mangal">lynx -source</font></b></td>
 		<td align="middle" height="27" width="234"><b>
@@ -345,7 +348,7 @@ target="_blank">
 		<font face="Mangal">
 		<span style="font-family: MS Shell Dlg; color: rgb(255, 255, 0); font-weight: 700;">
 		usr/bin/perl</span><span style="color: rgb(255, 255, 0);"><b>&nbsp; يبدأ 
-		الكود &nbsp;&nbsp; </b></span></font></td>
+		الكود&nbsp;&nbsp;&nbsp; </b></span></font></td>
 		<td align="middle" height="10" width="110"><b>
 		<font color="#ffff00" face="Mangal">لا يحتاج ترجمة</font></b></td>
 		<td align="middle" height="10" width="234">
@@ -512,8 +515,8 @@ target="_blank">
 		<span lang="ar-sa">معرفة جميع المواقع على السيرفر</span></font></b></td>
 	</tr>
 	<tr>
-		<td colspan="2" align="middle" height="19" width="384"><b><font color="#ff0000">ls 
-		-la</font><font color="#ffff00"> /etc/</font><font color="#00ff00">valiases/xxx.com</font></b></td>
+		<td colspan="2" align="middle" height="19" width="384"><b><font color="#ff0000">
+		ls -la</font><font color="#ffff00"> /etc/</font><font color="#00ff00">valiases/xxx.com</font></b></td>
 		<td align="middle" height="19" width="110"><b><font color="#ffff00">ls</font></b></td>
 		<td align="middle" height="19" width="234"><b><font color="#ffff00">
 		معرفة <span lang="ar-iq">اليوزر </span>اللي على السيرفر<span lang="ar-iq"> 
