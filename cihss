@@ -5,7 +5,7 @@
 # [+] Thanks goes to :
 # [+] All My Team CiHIQ.COM
 ################################################################################## */
-putenv("TZ=Europe/Britania");
+putenv("TZ=Iraq/Baghdad");
 ?>
 <head>
 <title>CiH Shell Scan</title>
